@@ -1,2 +1,1 @@
-/*O Paco gosta de pila!*/
-/*E o mini tambem*/
+/*Só o Paco é que gosta de pila!*/
