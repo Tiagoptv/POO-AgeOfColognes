@@ -142,12 +142,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Documents\POO\TP\ConsoleApplication1\ConsoleApplication1\Edificio.cpp" />
     <ClCompile Include="Colonia.cpp" />
     <ClCompile Include="Edificio.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Ser.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Documents\POO\TP\ConsoleApplication1\ConsoleApplication1\Edificio.h" />
     <ClInclude Include="Colonia.h" />
     <ClInclude Include="Edificio.h" />
     <ClInclude Include="Ser.h" />

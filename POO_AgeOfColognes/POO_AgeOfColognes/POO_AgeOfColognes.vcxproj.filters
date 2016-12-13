@@ -27,6 +27,9 @@
     <ClCompile Include="Colonia.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Documents\POO\TP\ConsoleApplication1\ConsoleApplication1\Edificio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Util.h">
@@ -39,6 +42,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Colonia.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Documents\POO\TP\ConsoleApplication1\ConsoleApplication1\Edificio.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
