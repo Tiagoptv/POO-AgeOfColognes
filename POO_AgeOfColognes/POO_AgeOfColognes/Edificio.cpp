@@ -6,7 +6,7 @@
 using namespace std;
 
 int Edificio::idtotal = 1;
-
+//asdfçkjbdfs
 Edificio::Edificio(): id(idtotal++){
 	
 }
