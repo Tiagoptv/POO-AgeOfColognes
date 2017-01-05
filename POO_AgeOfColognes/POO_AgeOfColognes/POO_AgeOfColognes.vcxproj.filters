@@ -30,6 +30,18 @@
     <ClCompile Include="..\..\..\..\..\Documents\POO\TP\ConsoleApplication1\ConsoleApplication1\Edificio.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Mapa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Comando.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Celula.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Objeto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Util.h">
@@ -45,6 +57,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\..\Documents\POO\TP\ConsoleApplication1\ConsoleApplication1\Edificio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mapa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Comando.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Celula.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Objeto.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
